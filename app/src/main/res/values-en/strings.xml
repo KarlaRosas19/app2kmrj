@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">STUDENTS</string>
+    <string name="a1_intro">Introduction</string>
+    <string name="a1_nombre">Name(s):</string>
+    <string name="a1_apellidos">Last Name:</string>
+    <string name="a1_cuenta">Account Number</string>
+    <string name="a1_bfemenino">Female</string>
+    <string name="a1_botonmasculino">Male</string>
+    <string name="a1_bAgregar">ADD</string>
+    <string name="a1_bVer">SEE LIST</string>
+    <string name="a_bRegresar">TO RETURN</string>
+</resources>

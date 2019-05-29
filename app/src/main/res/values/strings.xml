@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALUMNOS</string>
+    <string name="a1_intro">Introduccion</string>
+    <string name="a1_nombre">Nombres</string>
+    <string name="a1_apellidos">Apellidos</string>
+    <string name="a1_cuenta">Número de cuenta</string>
+    <string name="a1_bfemenino">Femenino</string>
+    <string name="a1_botonmasculino">Masculino</string>
+    <string name="a1_bAgregar">AGREGAR</string>
+    <string name="a1_bVer">VER LISTA</string>
+    <string name="a_bRegresar">REGRESAR</string>
+</resources>
